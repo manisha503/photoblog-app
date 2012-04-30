@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:paddingTop="1dip"
+  android:paddingBottom="1dip"
+  android:paddingLeft="2dip"
+  android:paddingRight="2dip">
+  <Button
+    android:id="@+id/load_more"
+    android:layout_width="270dip"
+    android:layout_height="45dip"
+    android:layout_centerInParent="true"
+    android:background="@color/headerTeal"
+    android:text="@string/load_more"
+    android:textColor="@android:color/white" />
+</RelativeLayout>
