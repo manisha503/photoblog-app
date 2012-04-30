@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PhotoBlog!</string>
+    <string name="app_name">com.rishiandmanisha.photoblog</string>
+    <string name="ok">Ok</string>
+    <string name="error_title">Oh no!</string>
+    <string name="generic_error_message">An error has occurred!  Please try again later!</string>
+    <string name="load_more">Load More</string>
+</resources>
